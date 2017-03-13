@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>XWoods</name>
+	<name>Xen's simple woodstain</name>
 	<author>Xen</author>
 	<url></url>
 	<targetVersion>0.16.1393</targetVersion>
-	<description>Adds 3 new woods.</description>
+	<description>Adds 4 new woods, stained from regular wood using chemfuel at refinery.</description>
 </ModMetaData>
